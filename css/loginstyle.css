@@ -2,7 +2,17 @@
     color: white;
     pointer-events: painted;
 }
-.body
+
+
+.navbar-light .navbar-brand {
+    color: #FFFFFF;
+    pointer-events:painted;
+}
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
+    color:#FFFFFF;
+    pointer-events: painted;
+}
+.login-content
 {
     background-color: darkgray;
 }
