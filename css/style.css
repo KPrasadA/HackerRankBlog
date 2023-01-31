@@ -10,7 +10,7 @@
 .btn:not(:disabled):not(.disabled) {
     cursor: pointer;
     color: #FFFFFF;
-    border-color: #FFFFFF;
+    border-color: #FFFFFF; 
 }
 .carousel-inner {
     

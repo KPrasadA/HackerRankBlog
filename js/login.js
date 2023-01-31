@@ -3,7 +3,7 @@ let emailElem = document.getElementsByTagName('input')[0];
 let emailMessage = document.getElementById('emailMessage');
 let passwordElem = document.getElementById('passwordElem');
 let passMessage = document.getElementById('passMessage')
-let btnElem = document.getElementsByTagName('button')[2];
+let btnElem = document.getElementsByTagName('button')[1];
 
 
 

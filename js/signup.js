@@ -83,7 +83,7 @@ confirmPassword.oninput =function (){
 }
 
 // Sign in button validation
- let signinBtnElem = document.getElementsByTagName('button')[2];
+ let signinBtnElem = document.getElementsByTagName('button')[1];
 
  signinBtnElem.onclick = function(){
     if((fullName.value.length == '') && (emailElement.value.length == '') && (passwordElement.value.length == ''))
